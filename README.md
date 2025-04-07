@@ -13,7 +13,7 @@ Collaborated with a classmate,Luke Punturieri,to build a machine learning model 
 
 After learning in a 2024 meeting that attorneys were manually tracking legislation, I designed and built the first version of a legislative tracker that automated bill lookups by entering the bill number—eliminating manual data entry and enhancing knowledge sharing across 12 regional offices.
 
-In 2025, I collaborated with the Director of Data Analytics, Jessica Price, to further improve the tool based on feedback from the Legislative Committee at Maryland Legal Aid. The updated version includes a dynamic dashboard that visualizes all bills being monitored, MLA’s legislative priorities, and MLA’s official positions. It also features a master calendar view that automatically pulls in hearing dates along with the name of the attorney scheduled to testify—enabling more effective coordination of advocacy efforts across the organization.
+In 2025, I collaborated with the Director of Data Analytics, Jessica Price, to further improve the tool based on feedback from the Legislative Committee at Maryland Legal Aid(MLA). The updated version includes a dynamic dashboard that visualizes all bills being monitored, MLA’s legislative priorities, and MLA’s official positions. It also features a master calendar view that automatically pulls in hearing dates along with the name of the attorney scheduled to testify—enabling more effective coordination of advocacy efforts across the organization.
 
 **🩺 Health Disparities in the Latino Community**
 
